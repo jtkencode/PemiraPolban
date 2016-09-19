@@ -1,0 +1,1 @@
+tabel pemilih , field id calon NULL
